@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/reservation">
+        <file>f/adresse.png</file>
+        <file>f/ajouter.png</file>
+        <file>f/back.jpg</file>
+        <file>f/back2.jpg</file>
+        <file>f/chercher.png</file>
+        <file>f/cin.png</file>
+        <file>f/date.png</file>
+        <file>f/email.jpg</file>
+        <file>f/imprimer.png</file>
+        <file>f/modifier.png</file>
+        <file>f/nom.png</file>
+        <file>f/pdf.png</file>
+        <file>f/prenom.png</file>
+        <file>f/sexe.jpg</file>
+        <file>f/supp.jpg</file>
+        <file>f/tel.jpg</file>
+        <file>f/trier.png</file>
+        <file>f/salle.jpg</file>
+        <file>f/budget.png</file>
+        <file>f/collaboratteur.png</file>
+        <file>f/id.jpg</file>
+        <file>f/note.png</file>
+    </qresource>
+</RCC>

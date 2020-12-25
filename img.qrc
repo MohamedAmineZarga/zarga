@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/10-2-wedding-png-clipart.png</file>
+        <file>img/56e2994645c7560f429d6e9a7023ccc7.jpg</file>
+        <file>img/add.png</file>
+        <file>img/chercher.png</file>
+        <file>img/delete.png</file>
+        <file>img/edit.png</file>
+        <file>img/EDITED.png</file>
+        <file>img/imprimer.png</file>
+        <file>img/load.png</file>
+        <file>img/LOGO.png</file>
+        <file>img/pdf.png</file>
+        <file>img/sort.png</file>
+        <file>img/wp2599322.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>img/bgmusic.mp3</file>
+        <file>img/connected.mp3</file>
+        <file>img/del.mp3</file>
+        <file>img/failed.mp3</file>
+        <file>img/ttblel.mp3</file>
+        <file>img/ttsMP3.com_VoiceText_2020-11-28_12_45_11.mp3</file>
+        <file>img/Vouspouvez.mp3</file>
+        <file>img/Vouspouvezeq.mp3</file>
+        <file>img/VV.mp3</file>
+    </qresource>
+</RCC>
